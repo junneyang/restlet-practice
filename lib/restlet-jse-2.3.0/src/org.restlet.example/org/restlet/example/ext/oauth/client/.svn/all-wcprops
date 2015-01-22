@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/oauth/client
+END
+OAuth2Sample.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/oauth/client/OAuth2Sample.java
+END
+SampleApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/oauth/client/SampleApplication.java
+END
+FacebookMeServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/oauth/client/FacebookMeServerResource.java
+END
+GoogleContactsServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/oauth/client/GoogleContactsServerResource.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/application
+END
+StatusInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/application/StatusInfo.java
+END
+StrictConneg.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/application/StrictConneg.java
+END
+RangeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/application/RangeFilter.java
+END
+ApplicationHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/application/ApplicationHelper.java
+END
+Decoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/application/Decoder.java
+END
+DecodeRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/application/DecodeRepresentation.java
+END
+Conneg.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/application/Conneg.java
+END
+TunnelFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/application/TunnelFilter.java
+END
+CorsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/application/CorsFilter.java
+END
+MetadataExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/application/MetadataExtension.java
+END
+RangeRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/application/RangeRepresentation.java
+END
+Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/application/Encoder.java
+END
+EncodeRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/application/EncodeRepresentation.java
+END
+FlexibleConneg.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/application/FlexibleConneg.java
+END
+CorsResponseHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/application/CorsResponseHelper.java
+END
+StatusFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/application/StatusFilter.java
+END

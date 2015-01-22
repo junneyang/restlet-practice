@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.httpclient/org/restlet/ext/httpclient/internal
+END
+IgnoreCookieSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.httpclient/org/restlet/ext/httpclient/internal/IgnoreCookieSpec.java
+END
+HttpIdleConnectionReaper.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.httpclient/org/restlet/ext/httpclient/internal/HttpIdleConnectionReaper.java
+END
+HttpMethodCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.httpclient/org/restlet/ext/httpclient/internal/HttpMethodCall.java
+END
+IgnoreCookieSpecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.httpclient/org/restlet/ext/httpclient/internal/IgnoreCookieSpecFactory.java
+END

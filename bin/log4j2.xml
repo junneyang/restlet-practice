@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN" monitorInterval="30">
+	<Appenders>
+		<Console name="Console" target="SYSTEM_OUT">
+			<!--<PatternLayout pattern="%highlight{[%-5p] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %logger{36} %class{36} %msg%xEx%n}"/>-->
+			<!--<PatternLayout pattern="[%-5p] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %logger{36} %class{36} %l %msg%xEx{full}%n"/>-->
+			<PatternLayout pattern="[%-5p] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %l %msg%xEx{full}%n"/>
+		</Console>
+		<File name="File" fileName="log/com.log">
+			<PatternLayout pattern="[%-5p] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %l %msg%xEx{full}%n"/>
+		</File>
+		<RollingFile name="RollingFile" fileName="logs/com.log" filePattern="logs/$${date:yyyy-MM}/com-%d{MM-dd-yyyy}-%i.log.gz">
+			<PatternLayout pattern="[%-5p] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %l %msg%xEx{full}%n"/>
+			<Policies>
+				<TimeBasedTriggeringPolicy />
+				<SizeBasedTriggeringPolicy size="10M" />
+			</Policies>
+			<DefaultRolloverStrategy max="100"/>
+		</RollingFile>
+		<File name="File_Restlet" fileName="log/restlet.log">
+			<PatternLayout pattern="[%-5p] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %l %msg%xEx{full}%n"/>
+		</File>
+		<RollingFile name="RollingFile_Restlet" fileName="logs/restlet.log" filePattern="logs/$${date:yyyy-MM}/restlet-%d{MM-dd-yyyy}-%i.log.gz">
+			<PatternLayout pattern="[%-5p] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %l %msg%xEx{full}%n"/>
+			<Policies>
+				<TimeBasedTriggeringPolicy />
+				<SizeBasedTriggeringPolicy size="10M" />
+			</Policies>
+			<DefaultRolloverStrategy max="100"/>
+		</RollingFile>
+	</Appenders>
+	<Loggers>
+		<Logger name="com" level="TRACE" additivity="false">
+			<AppenderRef ref="File"/>
+			<AppenderRef ref="RollingFile"/>
+		</Logger>
+		<Logger name="restlet" level="TRACE" additivity="false">
+			<AppenderRef ref="File_Restlet"/>
+			<AppenderRef ref="RollingFile_Restlet"/>
+		</Logger>
+		<!--<Logger name="com" level="TRACE" additivity="false">
+			<AppenderRef ref="Console"/>
+		</Logger>-->
+		<!--<Root level="error">
+			<AppenderRef ref="Console"/>
+		</Root>-->
+		<Root level="TRACE">
+			<AppenderRef ref="File"/>
+			<AppenderRef ref="RollingFile"/>
+		</Root>
+	</Loggers>
+</Configuration>

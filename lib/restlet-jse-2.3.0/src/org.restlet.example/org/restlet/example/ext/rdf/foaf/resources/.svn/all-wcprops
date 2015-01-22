@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/resources
+END
+BaseResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/resources/BaseResource.java
+END
+ContactResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/resources/ContactResource.java
+END
+ContactsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/resources/ContactsResource.java
+END
+UserResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/resources/UserResource.java
+END
+UsersResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/ext/rdf/foaf/resources/UsersResource.java
+END

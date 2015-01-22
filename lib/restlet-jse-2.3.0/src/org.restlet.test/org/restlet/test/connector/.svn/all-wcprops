@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/connector
+END
+RestartTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/connector/RestartTestCase.java
+END
+RiapConnectorsTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/connector/RiapConnectorsTestCase.java
+END
+RiapTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/connector/RiapTestCase.java
+END
+FileClientTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/connector/FileClientTestCase.java
+END
+ZipClientTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/connector/ZipClientTestCase.java
+END

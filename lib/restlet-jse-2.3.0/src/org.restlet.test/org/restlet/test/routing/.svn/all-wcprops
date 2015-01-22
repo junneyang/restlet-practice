@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/routing
+END
+FilterTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/routing/FilterTestCase.java
+END
+ValidatorTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/routing/ValidatorTestCase.java
+END
+RouteListTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/routing/RouteListTestCase.java
+END
+RedirectTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/routing/RedirectTestCase.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.httpclient_4.3
+END
+library.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.httpclient_4.3/library.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.httpclient_4.3/readme.txt
+END
+org.apache.httpclient.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.httpclient_4.3/org.apache.httpclient.jar
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.httpclient_4.3/license.txt
+END

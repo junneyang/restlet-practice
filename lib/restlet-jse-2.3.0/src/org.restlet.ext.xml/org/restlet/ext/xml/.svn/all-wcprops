@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.xml/org/restlet/ext/xml
+END
+XmlConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.xml/org/restlet/ext/xml/XmlConverter.java
+END
+XmlWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.xml/org/restlet/ext/xml/XmlWriter.java
+END
+SaxRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.xml/org/restlet/ext/xml/SaxRepresentation.java
+END
+TransformRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.xml/org/restlet/ext/xml/TransformRepresentation.java
+END
+NodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.xml/org/restlet/ext/xml/NodeList.java
+END
+DomRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.xml/org/restlet/ext/xml/DomRepresentation.java
+END
+Transformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.xml/org/restlet/ext/xml/Transformer.java
+END
+XmlRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.xml/org/restlet/ext/xml/XmlRepresentation.java
+END

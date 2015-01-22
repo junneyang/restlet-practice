@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.james.mime4j_0.7
+END
+library.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.james.mime4j_0.7/library.xml
+END
+org.apache.james.mime4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.james.mime4j_0.7/org.apache.james.mime4j.jar
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.james.mime4j_0.7/readme.txt
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.james.mime4j_0.7/license.txt
+END

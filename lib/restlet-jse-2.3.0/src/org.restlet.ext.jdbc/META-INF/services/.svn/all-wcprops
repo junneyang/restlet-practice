@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jdbc/META-INF/services
+END
+org.restlet.engine.converter.ConverterHelper
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jdbc/META-INF/services/org.restlet.engine.converter.ConverterHelper
+END
+org.restlet.engine.ClientHelper
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jdbc/META-INF/services/org.restlet.engine.ClientHelper
+END

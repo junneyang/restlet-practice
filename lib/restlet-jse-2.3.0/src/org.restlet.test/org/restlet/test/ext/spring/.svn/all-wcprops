@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/spring
+END
+SpringBeanRouterTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/spring/SpringBeanRouterTestCase.java
+END
+SpringBeanFinderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/spring/SpringBeanFinderTestCase.java
+END
+SpringTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/spring/SpringTestSuite.java
+END
+SpringTestCase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/spring/SpringTestCase.xml
+END
+SpringTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/spring/SpringTestCase.java
+END

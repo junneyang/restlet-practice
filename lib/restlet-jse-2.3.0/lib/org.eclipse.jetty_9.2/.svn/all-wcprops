@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.eclipse.jetty_9.2
+END
+org.eclipse.jetty.spdy.http.common.jar
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.http.common.jar
+END
+org.eclipse.jetty.spdy.server.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.server.jar
+END
+org.eclipse.jetty.server.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.server.jar
+END
+org.eclipse.jetty.spdy.core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.core.jar
+END
+org.eclipse.jetty.io.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.io.jar
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.eclipse.jetty_9.2/readme.txt
+END
+org.eclipse.jetty.spdy.client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.client.jar
+END
+org.eclipse.jetty.util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.util.jar
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.eclipse.jetty_9.2/license.txt
+END
+org.eclipse.jetty.client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.client.jar
+END
+org.eclipse.jetty.http.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.http.jar
+END
+library.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.eclipse.jetty_9.2/library.xml
+END
+org.eclipse.jetty.spdy.http.server.jar
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.eclipse.jetty_9.2/org.eclipse.jetty.spdy.http.server.jar
+END

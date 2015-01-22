@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch09/server
+END
+ContactsServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch09/server/ContactsServerResource.java
+END
+MailServerApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch09/server/MailServerApplication.java
+END
+AccountsServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch09/server/AccountsServerResource.java
+END
+MailServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch09/server/MailServerResource.java
+END
+RootServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch09/server/RootServerResource.java
+END
+MailsServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch09/server/MailsServerResource.java
+END
+ContactServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch09/server/ContactServerResource.java
+END
+AccountServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch09/server/AccountServerResource.java
+END

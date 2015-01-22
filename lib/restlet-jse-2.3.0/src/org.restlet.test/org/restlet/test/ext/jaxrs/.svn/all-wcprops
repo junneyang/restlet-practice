@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs
+END
+AllClassTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/AllClassTests.java
+END
+JaxRsTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/JaxRsTestSuite.java
+END
+QueryTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/QueryTestCase.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/package-info.java
+END
+ExceptionMappersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/ExceptionMappersTest.java
+END
+QueryResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/QueryResource.java
+END

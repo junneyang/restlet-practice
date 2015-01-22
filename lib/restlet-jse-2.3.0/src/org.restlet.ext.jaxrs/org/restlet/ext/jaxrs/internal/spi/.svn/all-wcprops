@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/spi
+END
+MediaTypeHeaderDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/spi/MediaTypeHeaderDelegate.java
+END
+NewCookieHeaderDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/spi/NewCookieHeaderDelegate.java
+END
+CacheControlHeaderDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/spi/CacheControlHeaderDelegate.java
+END
+EntityTagHeaderDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/spi/EntityTagHeaderDelegate.java
+END
+CookieHeaderDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/spi/CookieHeaderDelegate.java
+END
+RuntimeDelegateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/spi/RuntimeDelegateImpl.java
+END
+DateHeaderDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/spi/DateHeaderDelegate.java
+END

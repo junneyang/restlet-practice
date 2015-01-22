@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/package-summary.html
+END
+Header.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Header.html
+END
+ReferenceList.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/ReferenceList.html
+END
+ClientInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/ClientInfo.html
+END
+AuthenticationInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/AuthenticationInfo.html
+END
+ChallengeRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/ChallengeRequest.html
+END
+Reference.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Reference.html
+END
+Protocol.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Protocol.html
+END
+ChallengeResponse.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/ChallengeResponse.html
+END
+CacheDirective.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/CacheDirective.html
+END
+Warning.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Warning.html
+END
+CookieSetting.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/CookieSetting.html
+END
+Cookie.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Cookie.html
+END
+Conditions.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Conditions.html
+END
+Tag.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Tag.html
+END
+Method.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Method.html
+END
+Parameter.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Parameter.html
+END
+MediaType.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/MediaType.html
+END
+ServerInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/ServerInfo.html
+END
+Expectation.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Expectation.html
+END
+Encoding.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Encoding.html
+END
+ChallengeMessage.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/ChallengeMessage.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/package-tree.html
+END
+Range.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Range.html
+END
+RecipientInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/RecipientInfo.html
+END
+Form.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Form.html
+END
+Disposition.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Disposition.html
+END
+ChallengeScheme.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/ChallengeScheme.html
+END
+CharacterSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/CharacterSet.html
+END
+LocalReference.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/LocalReference.html
+END
+Preference.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Preference.html
+END
+Digest.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Digest.html
+END
+Metadata.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Metadata.html
+END
+Product.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Product.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/package-frame.html
+END
+Status.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Status.html
+END
+Language.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Language.html
+END
+Dimension.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/Dimension.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/api/org/restlet/data/package-use.html
+END

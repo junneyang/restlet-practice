@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.osgi_4.0
+END
+org.osgi.core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.osgi_4.0/org.osgi.core.jar
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.osgi_4.0/readme.txt
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.osgi_4.0/license.txt
+END
+org.osgi.compendium.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.osgi_4.0/org.osgi.compendium.jar
+END
+library.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.osgi_4.0/library.xml
+END

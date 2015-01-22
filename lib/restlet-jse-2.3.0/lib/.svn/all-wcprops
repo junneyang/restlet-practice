@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib
+END
+org.restlet.ext.jaxrs.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.jaxrs.jar
+END
+org.restlet.ext.odata.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.odata.jar
+END
+org.restlet.ext.jackson.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.jackson.jar
+END
+org.restlet.ext.jibx.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.jibx.jar
+END
+org.restlet.ext.guice.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.guice.jar
+END
+org.restlet.ext.jsslutils.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.jsslutils.jar
+END
+org.restlet.example.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.example.jar
+END
+org.restlet.ext.jetty.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.jetty.jar
+END
+org.restlet.ext.swagger.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.swagger.jar
+END
+org.restlet.ext.atom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.atom.jar
+END
+org.restlet.ext.spring.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.spring.jar
+END
+org.restlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.jar
+END
+org.restlet.ext.gson.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.gson.jar
+END
+org.restlet.ext.emf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.emf.jar
+END
+org.restlet.ext.e4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.e4.jar
+END
+org.restlet.ext.httpclient.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.httpclient.jar
+END
+org.restlet.ext.jaas.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.jaas.jar
+END
+org.restlet.test.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.test.jar
+END
+org.restlet.ext.slf4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.slf4j.jar
+END
+org.restlet.ext.freemarker.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.freemarker.jar
+END
+org.restlet.ext.javamail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.javamail.jar
+END
+org.restlet.ext.nio.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.nio.jar
+END
+org.restlet.ext.wadl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.wadl.jar
+END
+org.restlet.ext.simple.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.simple.jar
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/readme.txt
+END
+org.restlet.ext.sip.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.sip.jar
+END
+org.restlet.ext.raml.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.raml.jar
+END
+org.restlet.ext.velocity.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.velocity.jar
+END
+org.restlet.ext.xml.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.xml.jar
+END
+org.restlet.ext.gwt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.gwt.jar
+END
+org.restlet.ext.jdbc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.jdbc.jar
+END
+org.restlet.ext.rome.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.rome.jar
+END
+org.restlet.ext.html.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.html.jar
+END
+org.restlet.ext.sdc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.sdc.jar
+END
+org.restlet.ext.json.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.json.jar
+END
+org.restlet.ext.apispark.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.apispark.jar
+END
+org.restlet.ext.lucene.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.lucene.jar
+END
+org.restlet.ext.rdf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.rdf.jar
+END
+org.restlet.ext.openid.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.openid.jar
+END
+org.restlet.ext.thymeleaf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.thymeleaf.jar
+END
+org.restlet.ext.crypto.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.crypto.jar
+END
+org.restlet.ext.oauth.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.oauth.jar
+END
+org.restlet.ext.xstream.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.xstream.jar
+END
+org.restlet.ext.fileupload.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.fileupload.jar
+END
+org.restlet.ext.jaxb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.restlet.ext.jaxb.jar
+END

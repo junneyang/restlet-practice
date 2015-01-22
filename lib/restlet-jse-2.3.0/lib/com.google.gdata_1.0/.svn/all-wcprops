@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.google.gdata_1.0
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.google.gdata_1.0/readme.txt
+END
+com.google.gdata.client.jar
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.google.gdata_1.0/com.google.gdata.client.jar
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.google.gdata_1.0/license.txt
+END
+com.google.gdata.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.google.gdata_1.0/com.google.gdata.jar
+END
+library.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.google.gdata_1.0/library.xml
+END

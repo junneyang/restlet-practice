@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers
+END
+ParamConstructorProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers/ParamConstructorProvider.java
+END
+SqlExceptionMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers/SqlExceptionMapper.java
+END
+GenericTypeMBW.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers/GenericTypeMBW.java
+END
+Issue971Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers/Issue971Writer.java
+END
+BooleanEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers/BooleanEntityProvider.java
+END
+AppCrazyPersonProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers/AppCrazyPersonProvider.java
+END
+EntityConstructorProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers/EntityConstructorProvider.java
+END
+TextCrazyPersonProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers/TextCrazyPersonProvider.java
+END
+BaseUriContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers/BaseUriContext.java
+END
+MatchedUriTestProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers/MatchedUriTestProvider.java
+END
+Issue971WriterSub.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers/Issue971WriterSub.java
+END
+ContextResolverTestWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers/ContextResolverTestWriter.java
+END
+CharacterEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers/CharacterEntityProvider.java
+END
+IntegerEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers/IntegerEntityProvider.java
+END
+TestContextResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers/TestContextResolver.java
+END
+IllegalArgExcMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers/IllegalArgExcMapper.java
+END
+ThrowWebAppExcProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/providers/ThrowWebAppExcProvider.java
+END

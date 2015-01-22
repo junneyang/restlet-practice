@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.fasterxml.jackson_2.4
+END
+com.fasterxml.jackson.jaxb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.jaxb.jar
+END
+com.fasterxml.jackson.databind.jar
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.databind.jar
+END
+com.fasterxml.jackson.core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.core.jar
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.fasterxml.jackson_2.4/readme.txt
+END
+com.fasterxml.jackson.smile.jar
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.smile.jar
+END
+com.fasterxml.jackson.jsonschema.jar
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.jsonschema.jar
+END
+com.fasterxml.jackson.csv.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.csv.jar
+END
+com.fasterxml.jackson.annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.annotations.jar
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.fasterxml.jackson_2.4/license.txt
+END
+com.fasterxml.jackson.xml.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.xml.jar
+END
+library.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.fasterxml.jackson_2.4/library.xml
+END
+com.fasterxml.jackson.yaml.jar
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/com.fasterxml.jackson_2.4/com.fasterxml.jackson.yaml.jar
+END

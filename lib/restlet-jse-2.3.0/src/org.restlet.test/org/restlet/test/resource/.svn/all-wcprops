@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource
+END
+MyException02.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyException02.java
+END
+MyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyBean.java
+END
+FullContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/FullContact.java
+END
+AnnotatedResource11TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource11TestCase.java
+END
+AnnotatedResource03TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource03TestCase.java
+END
+AnnotatedResource15TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource15TestCase.java
+END
+AnnotatedResource07TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource07TestCase.java
+END
+MyServerResource14.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyServerResource14.java
+END
+MyServerResource18.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyServerResource18.java
+END
+FileRepresentationTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/FileRepresentationTestCase.java
+END
+MyResource11.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyResource11.java
+END
+MyResource03.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyResource03.java
+END
+USIMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/USIMethod.java
+END
+MyResource07.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyResource07.java
+END
+GenericAnnotatedServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/GenericAnnotatedServerResource.java
+END
+AnnotatedResource20TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource20TestCase.java
+END
+AnnotatedResource12TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource12TestCase.java
+END
+AnnotatedResource04TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource04TestCase.java
+END
+AnnotatedResource16TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource16TestCase.java
+END
+AnnotatedResource08TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource08TestCase.java
+END
+MyServerResource15.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyServerResource15.java
+END
+AnnotatedInterface01.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedInterface01.java
+END
+MyResource20.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyResource20.java
+END
+MyResource12.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyResource12.java
+END
+AbstractAnnotatedServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AbstractAnnotatedServerResource.java
+END
+MyResource04.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyResource04.java
+END
+ResourceTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/ResourceTestSuite.java
+END
+Anno09Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/Anno09Client.java
+END
+MyResource08.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyResource08.java
+END
+SIMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/SIMethod.java
+END
+USNIMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/USNIMethod.java
+END
+AnnotatedResource01TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource01TestCase.java
+END
+GenericServerResource16.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/GenericServerResource16.java
+END
+InternalConnectorTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/InternalConnectorTestCase.java
+END
+AnnotatedResource13TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource13TestCase.java
+END
+MyServerResource20.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyServerResource20.java
+END
+AnnotatedResource05TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource05TestCase.java
+END
+MyServerResource12.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyServerResource12.java
+END
+AnnotatedResource17TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource17TestCase.java
+END
+AnnotatedResource09TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource09TestCase.java
+END
+SNIMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/SNIMethod.java
+END
+MyServerResource16.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyServerResource16.java
+END
+Anno09Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/Anno09Server.java
+END
+MyResource01.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyResource01.java
+END
+AnnotatedInterface02.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedInterface02.java
+END
+MyResource13.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyResource13.java
+END
+MyResource05.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyResource05.java
+END
+MyResource17.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyResource17.java
+END
+MyException01.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyException01.java
+END
+MyResource09.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyResource09.java
+END
+AnnotatedResource10TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource10TestCase.java
+END
+GenericServerResource17.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/GenericServerResource17.java
+END
+AnnotatedResource02TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource02TestCase.java
+END
+LightContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/LightContact.java
+END
+MyServerResource01.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyServerResource01.java
+END
+AnnotatedResource14TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource14TestCase.java
+END
+AnnotatedResource06TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource06TestCase.java
+END
+MyServerResource13.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyServerResource13.java
+END
+AnnotatedResource18TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedResource18TestCase.java
+END
+Contact.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/Contact.java
+END
+MyServerResource17.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyServerResource17.java
+END
+AbstractGenericAnnotatedServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AbstractGenericAnnotatedServerResource.java
+END
+MyResource10.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyResource10.java
+END
+MyResource02.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyResource02.java
+END
+DirectoryTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/DirectoryTestCase.java
+END
+AnnotatedInterface03.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/AnnotatedInterface03.java
+END
+MyResource06.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/resource/MyResource06.java
+END

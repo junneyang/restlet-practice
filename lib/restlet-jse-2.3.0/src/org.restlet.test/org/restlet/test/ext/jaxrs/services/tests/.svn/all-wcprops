@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests
+END
+MessageBodyWritersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/MessageBodyWritersTest.java
+END
+InjectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/InjectionTest.java
+END
+JaxRsTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/JaxRsTestCase.java
+END
+MatrixParamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/MatrixParamTest.java
+END
+MultipleResourcesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/MultipleResourcesTest.java
+END
+IllegalThingsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/IllegalThingsTest.java
+END
+NoProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/NoProviderTest.java
+END
+MethodAheadLocatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/MethodAheadLocatorTest.java
+END
+SimpleTrainTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/SimpleTrainTest.java
+END
+Issue971Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/Issue971Test.java
+END
+Issue593Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/Issue593Test.java
+END
+CookieParamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/CookieParamTest.java
+END
+ListParamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/ListParamTest.java
+END
+PathParamTest3.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/PathParamTest3.java
+END
+ExtendedUriBuilderByServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/ExtendedUriBuilderByServiceTest.java
+END
+MatchedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/MatchedTest.java
+END
+ResponseBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/ResponseBuilderTest.java
+END
+PrimitiveWrapperEntityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/PrimitiveWrapperEntityTest.java
+END
+MatrixParamTest2.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/MatrixParamTest2.java
+END
+RecursiveTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/RecursiveTest.java
+END
+JsonTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/JsonTest.java
+END
+GenericTypeTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/GenericTypeTestCase.java
+END
+AllServiceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/AllServiceTests.java
+END
+PathParamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/PathParamTest.java
+END
+HeadOptionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/HeadOptionsTest.java
+END
+ThrowWebAppExcProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/ThrowWebAppExcProviderTest.java
+END
+OwnProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/OwnProviderTest.java
+END
+UriBuilderByServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/UriBuilderByServiceTest.java
+END
+ThrowExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/ThrowExceptionTest.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/package-info.java
+END
+ExcMapperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/ExcMapperTest.java
+END
+QueryParamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/QueryParamTest.java
+END
+HttpHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/HttpHeaderTest.java
+END
+RequestTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/RequestTest.java
+END
+PersonsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/PersonsTest.java
+END
+Issue594Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/Issue594Test.java
+END
+ProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/ProviderTest.java
+END
+InheritAnnotationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/InheritAnnotationTest.java
+END
+SimpleHouseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/SimpleHouseTest.java
+END
+PathParamTest2.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/PathParamTest2.java
+END
+RepresentationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/RepresentationTest.java
+END
+FormTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/FormTest.java
+END
+AppPlusXmlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/AppPlusXmlTest.java
+END
+CarTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/CarTest.java
+END
+ContextResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/ContextResolverTest.java
+END
+ContextsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/ContextsTest.java
+END
+DeterminingMediaTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/DeterminingMediaTypeTest.java
+END
+IllegalConstructorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/jaxrs/services/tests/IllegalConstructorTest.java
+END

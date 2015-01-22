@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal/xml
+END
+ScopedProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal/xml/ScopedProperty.java
+END
+RdfXmlWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal/xml/RdfXmlWriter.java
+END
+ContentReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal/xml/ContentReader.java
+END
+RdfXmlReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal/xml/RdfXmlReader.java
+END

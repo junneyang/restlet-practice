@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/net.oauth_1.0
+END
+library.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/net.oauth_1.0/library.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/net.oauth_1.0/readme.txt
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/net.oauth_1.0/license.txt
+END
+net.oauth.jar
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/net.oauth_1.0/net.oauth.jar
+END

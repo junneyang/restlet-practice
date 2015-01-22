@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data
+END
+MediaTypeTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/MediaTypeTestCase.java
+END
+ProductTokenTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/ProductTokenTestCase.java
+END
+FormTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/FormTestCase.java
+END
+LanguageTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/LanguageTestCase.java
+END
+StatusTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/StatusTestCase.java
+END
+CookieTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/CookieTestCase.java
+END
+ClientInfoTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/ClientInfoTestCase.java
+END
+AuthenticationInfoTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/AuthenticationInfoTestCase.java
+END
+RangeTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/RangeTestCase.java
+END
+FileReferenceTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/FileReferenceTestCase.java
+END
+RecipientInfoTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/RecipientInfoTestCase.java
+END
+ReferenceTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/data/ReferenceTestCase.java
+END

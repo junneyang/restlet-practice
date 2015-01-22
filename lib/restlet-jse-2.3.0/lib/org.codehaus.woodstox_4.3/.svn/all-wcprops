@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.codehaus.woodstox_4.3
+END
+library.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.codehaus.woodstox_4.3/library.xml
+END
+org.codehaus.woodstox.core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.codehaus.woodstox_4.3/org.codehaus.woodstox.core.jar
+END
+org.codehaus.woodstox.stax2api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.codehaus.woodstox_4.3/org.codehaus.woodstox.stax2api.jar
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.codehaus.woodstox_4.3/readme.txt
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.codehaus.woodstox_4.3/license.txt
+END

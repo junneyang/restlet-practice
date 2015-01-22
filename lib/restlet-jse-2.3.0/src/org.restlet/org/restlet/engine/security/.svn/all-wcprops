@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/security
+END
+HttpBasicHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/security/HttpBasicHelper.java
+END
+SmtpPlainHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/security/SmtpPlainHelper.java
+END
+AuthenticatorHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/security/AuthenticatorHelper.java
+END
+AuthenticatorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/security/AuthenticatorUtils.java
+END
+RoleMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/security/RoleMapping.java
+END

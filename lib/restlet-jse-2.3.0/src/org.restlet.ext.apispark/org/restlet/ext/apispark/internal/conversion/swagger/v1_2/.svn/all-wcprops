@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2
+END
+SwaggerTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/SwaggerTranslator.java
+END
+SwaggerTypeFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/SwaggerTypeFormat.java
+END
+SwaggerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/SwaggerUtils.java
+END
+SwaggerTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/SwaggerTypes.java
+END

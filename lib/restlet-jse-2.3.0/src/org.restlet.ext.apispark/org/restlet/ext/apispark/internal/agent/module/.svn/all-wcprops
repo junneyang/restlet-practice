@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/agent/module
+END
+FirewallModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/agent/module/FirewallModule.java
+END
+AnalyticsModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/agent/module/AnalyticsModule.java
+END
+ModulesSettingsModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/agent/module/ModulesSettingsModule.java
+END
+ReverseProxyModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/agent/module/ReverseProxyModule.java
+END
+AuthenticationModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/agent/module/AuthenticationModule.java
+END
+AuthorizationModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/agent/module/AuthorizationModule.java
+END

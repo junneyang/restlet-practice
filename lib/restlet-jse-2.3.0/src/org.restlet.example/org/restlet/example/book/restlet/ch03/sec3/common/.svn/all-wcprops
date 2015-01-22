@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch03/sec3/common
+END
+RootResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch03/sec3/common/RootResource.java
+END
+AccountResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch03/sec3/common/AccountResource.java
+END
+AccountsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch03/sec3/common/AccountsResource.java
+END

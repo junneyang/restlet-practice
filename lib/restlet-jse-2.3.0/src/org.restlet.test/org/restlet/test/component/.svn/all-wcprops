@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/component
+END
+HelloWorldRestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/component/HelloWorldRestlet.java
+END
+ComponentXmlTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/component/ComponentXmlTestCase.java
+END
+HelloWorldApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/component/HelloWorldApplication.java
+END
+Component.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/component/Component.xml
+END
+ComponentXmlConfigTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/component/ComponentXmlConfigTestCase.java
+END

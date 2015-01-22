@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/bench
+END
+NioClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/bench/NioClient.java
+END
+TestPostClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/bench/TestPostClient.java
+END
+TestGetServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/bench/TestGetServer.java
+END
+TestPostChunkedClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/bench/TestPostChunkedClient.java
+END
+NioProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/bench/NioProxy.java
+END
+TestGetChunkedServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/bench/TestGetChunkedServer.java
+END
+NioServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/bench/NioServer.java
+END
+TestPostServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/bench/TestPostServer.java
+END
+log.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/bench/log.properties
+END
+TestGetClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/bench/TestGetClient.java
+END
+RestletClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/bench/RestletClient.java
+END
+HelloServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/bench/HelloServerResource.java
+END

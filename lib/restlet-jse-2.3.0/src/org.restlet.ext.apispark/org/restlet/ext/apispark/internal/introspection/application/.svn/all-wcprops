@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/introspection/application
+END
+ComponentIntrospector.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/introspection/application/ComponentIntrospector.java
+END
+ResourceCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/introspection/application/ResourceCollector.java
+END
+ApplicationIntrospector.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/introspection/application/ApplicationIntrospector.java
+END
+CollectInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/introspection/application/CollectInfo.java
+END
+RepresentationCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/introspection/application/RepresentationCollector.java
+END
+RestletCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/introspection/application/RestletCollector.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.odata/org/restlet/ext/odata/internal/templates
+END
+service.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.odata/org/restlet/ext/odata/internal/templates/service.ftl
+END
+complexType.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.odata/org/restlet/ext/odata/internal/templates/complexType.ftl
+END
+entityType.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.odata/org/restlet/ext/odata/internal/templates/entityType.ftl
+END

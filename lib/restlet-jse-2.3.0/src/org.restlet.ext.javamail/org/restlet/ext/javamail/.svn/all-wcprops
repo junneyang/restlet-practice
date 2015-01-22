@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.javamail/org/restlet/ext/javamail
+END
+TriggerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.javamail/org/restlet/ext/javamail/TriggerResource.java
+END
+JavaMailConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.javamail/org/restlet/ext/javamail/JavaMailConverter.java
+END
+JavaMailClientHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.javamail/org/restlet/ext/javamail/JavaMailClientHelper.java
+END
+MailResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.javamail/org/restlet/ext/javamail/MailResolver.java
+END
+MessageRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.javamail/org/restlet/ext/javamail/MessageRepresentation.java
+END
+RepresentationMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.javamail/org/restlet/ext/javamail/RepresentationMessage.java
+END
+MessagesRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.javamail/org/restlet/ext/javamail/MessagesRepresentation.java
+END

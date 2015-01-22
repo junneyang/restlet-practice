@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.openid/org/restlet/ext/openid
+END
+AttributeExchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.openid/org/restlet/ext/openid/AttributeExchange.java
+END
+OpenIdVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.openid/org/restlet/ext/openid/OpenIdVerifier.java
+END
+RelayingParty.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.openid/org/restlet/ext/openid/RelayingParty.java
+END
+RedirectAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.openid/org/restlet/ext/openid/RedirectAuthenticator.java
+END
+OpenIdFormForwarder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.openid/org/restlet/ext/openid/OpenIdFormForwarder.java
+END

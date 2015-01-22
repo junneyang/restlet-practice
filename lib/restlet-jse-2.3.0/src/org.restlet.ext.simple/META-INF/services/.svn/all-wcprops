@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.simple/META-INF/services
+END
+org.restlet.engine.ServerHelper
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.simple/META-INF/services/org.restlet.engine.ServerHelper
+END

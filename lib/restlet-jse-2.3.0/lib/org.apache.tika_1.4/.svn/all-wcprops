@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.tika_1.4
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.tika_1.4/license.txt
+END
+library.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.tika_1.4/library.xml
+END
+org.apache.tika.parsers.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.tika_1.4/org.apache.tika.parsers.jar
+END
+org.apache.tika.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.tika_1.4/org.apache.tika.jar
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.tika_1.4/readme.txt
+END

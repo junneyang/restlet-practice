@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/core
+END
+ResponseBuilderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/core/ResponseBuilderImpl.java
+END
+UnmodifiableMultivaluedMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/core/UnmodifiableMultivaluedMap.java
+END
+UriBuilderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/core/UriBuilderImpl.java
+END
+VariantListBuilderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/core/VariantListBuilderImpl.java
+END
+ThreadLocalizedUriInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/core/ThreadLocalizedUriInfo.java
+END
+MultivaluedMapImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/core/MultivaluedMapImpl.java
+END
+ThreadLocalizedExtendedUriInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/core/ThreadLocalizedExtendedUriInfo.java
+END
+CallContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/core/CallContext.java
+END
+ResponseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/core/ResponseImpl.java
+END
+MatchedInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/core/MatchedInfo.java
+END
+PathSegmentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/core/PathSegmentImpl.java
+END
+ThreadLocalizedContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/core/ThreadLocalizedContext.java
+END

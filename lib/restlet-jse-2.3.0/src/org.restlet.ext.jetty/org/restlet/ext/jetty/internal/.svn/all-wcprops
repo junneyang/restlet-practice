@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jetty/org/restlet/ext/jetty/internal
+END
+RestletSslContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jetty/org/restlet/ext/jetty/internal/RestletSslContextFactory.java
+END
+JettyServerCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jetty/org/restlet/ext/jetty/internal/JettyServerCall.java
+END
+JettyClientCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jetty/org/restlet/ext/jetty/internal/JettyClientCall.java
+END
+JettyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jetty/org/restlet/ext/jetty/internal/JettyHandler.java
+END

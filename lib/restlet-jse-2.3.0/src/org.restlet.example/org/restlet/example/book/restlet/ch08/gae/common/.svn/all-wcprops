@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/common
+END
+ContactResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/common/ContactResource.java
+END
+AccountResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/common/AccountResource.java
+END
+MailRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/common/MailRepresentation.java
+END
+FeedRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/common/FeedRepresentation.java
+END
+AccountsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/common/AccountsResource.java
+END
+MailResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/common/MailResource.java
+END
+RootResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/common/RootResource.java
+END
+MailsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/common/MailsResource.java
+END
+ContactRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/common/ContactRepresentation.java
+END
+TagRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/common/TagRepresentation.java
+END
+AccountRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch08/gae/common/AccountRepresentation.java
+END

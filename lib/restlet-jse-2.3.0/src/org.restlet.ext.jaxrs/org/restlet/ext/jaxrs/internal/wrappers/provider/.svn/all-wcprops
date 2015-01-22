@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/provider
+END
+ExtensionBackwardMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/provider/ExtensionBackwardMapping.java
+END
+PerRequestProviderWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/provider/PerRequestProviderWrapper.java
+END
+ProviderWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/provider/ProviderWrapper.java
+END
+SingletonProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/provider/SingletonProvider.java
+END
+AbstractProviderWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/provider/AbstractProviderWrapper.java
+END
+MessageBodyWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/provider/MessageBodyWriter.java
+END
+MessageBodyReaderSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/provider/MessageBodyReaderSet.java
+END
+JaxRsProviders.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/provider/JaxRsProviders.java
+END
+MessageBodyReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/provider/MessageBodyReader.java
+END
+MessageBodyWriterSubSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/provider/MessageBodyWriterSubSet.java
+END
+ContextResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.jaxrs/org/restlet/ext/jaxrs/internal/wrappers/provider/ContextResolver.java
+END

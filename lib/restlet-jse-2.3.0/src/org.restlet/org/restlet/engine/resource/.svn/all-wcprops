@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/resource
+END
+VariantInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/resource/VariantInfo.java
+END
+AnnotationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/resource/AnnotationInfo.java
+END
+ClientInvocationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/resource/ClientInvocationHandler.java
+END
+MethodAnnotationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/resource/MethodAnnotationInfo.java
+END
+AnnotationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/resource/AnnotationUtils.java
+END
+ThrowableAnnotationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/engine/resource/ThrowableAnnotationInfo.java
+END

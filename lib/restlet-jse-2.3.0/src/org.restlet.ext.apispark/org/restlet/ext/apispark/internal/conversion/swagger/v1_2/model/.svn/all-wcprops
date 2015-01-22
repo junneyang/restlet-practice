@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model
+END
+ResourceDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/ResourceDeclaration.java
+END
+TokenRequestEndpointDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/TokenRequestEndpointDeclaration.java
+END
+AuthorizationCodeDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/AuthorizationCodeDeclaration.java
+END
+AuthorizationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/AuthorizationType.java
+END
+AuthorizationDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/AuthorizationDeclaration.java
+END
+GrantTypesDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/GrantTypesDeclaration.java
+END
+ModelDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/ModelDeclaration.java
+END
+BasicAuthorizationDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/BasicAuthorizationDeclaration.java
+END
+ResponseMessageDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/ResponseMessageDeclaration.java
+END
+ApiKeyAuthorizationDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/ApiKeyAuthorizationDeclaration.java
+END
+ResourceListingApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/ResourceListingApi.java
+END
+ResourceOperationDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/ResourceOperationDeclaration.java
+END
+LoginEndpointDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/LoginEndpointDeclaration.java
+END
+ApiDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/ApiDeclaration.java
+END
+ResourceOperationParameterDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/ResourceOperationParameterDeclaration.java
+END
+ScopeDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/ScopeDeclaration.java
+END
+ImplicitDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/ImplicitDeclaration.java
+END
+ResourceListing.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/ResourceListing.java
+END
+ApiInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/ApiInfo.java
+END
+TokenEndpointDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/TokenEndpointDeclaration.java
+END
+ItemsDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/ItemsDeclaration.java
+END
+AuthorizationsDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/AuthorizationsDeclaration.java
+END
+OAuth2AuthorizationDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/OAuth2AuthorizationDeclaration.java
+END
+TypePropertyDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/conversion/swagger/v1_2/model/TypePropertyDeclaration.java
+END

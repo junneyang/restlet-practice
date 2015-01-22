@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/rule/counter
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/rule/counter/Counter.java
+END
+ConcurrentCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/rule/counter/ConcurrentCounter.java
+END
+PeriodicCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/rule/counter/PeriodicCounter.java
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip
+END
+SipServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/SipServerResource.java
+END
+Options.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/Options.java
+END
+Info.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/Info.java
+END
+SipMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/SipMethod.java
+END
+Invite.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/Invite.java
+END
+Ack.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/Ack.java
+END
+SipStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/SipStatus.java
+END
+SipClientResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/SipClientResource.java
+END
+Refer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/Refer.java
+END
+SipRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/SipRequest.java
+END
+OptionTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/OptionTag.java
+END
+Publish.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/Publish.java
+END
+ContactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/ContactInfo.java
+END
+Notify.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/Notify.java
+END
+SipRecipientInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/SipRecipientInfo.java
+END
+Availability.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/Availability.java
+END
+SipResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/SipResponse.java
+END
+Bye.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/Bye.java
+END
+Subscribe.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/Subscribe.java
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/Event.java
+END
+Priority.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/Priority.java
+END
+EventType.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/EventType.java
+END
+Subscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/Subscription.java
+END
+Register.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/Register.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/Address.java
+END
+Cancel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.sip/org/restlet/ext/sip/Cancel.java
+END

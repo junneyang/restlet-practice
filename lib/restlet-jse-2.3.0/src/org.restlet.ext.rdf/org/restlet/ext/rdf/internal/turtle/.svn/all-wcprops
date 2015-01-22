@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal/turtle
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal/turtle/Context.java
+END
+StringToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal/turtle/StringToken.java
+END
+RdfTurtleWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal/turtle/RdfTurtleWriter.java
+END
+ListToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal/turtle/ListToken.java
+END
+BlankNodeToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal/turtle/BlankNodeToken.java
+END
+RdfTurtleReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal/turtle/RdfTurtleReader.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal/turtle/Token.java
+END
+UriToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal/turtle/UriToken.java
+END
+LexicalUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal/turtle/LexicalUnit.java
+END

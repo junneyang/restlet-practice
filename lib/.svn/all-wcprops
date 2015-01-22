@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/myspace/!svn/ver/218863/lbs/bmeqa/restlet/DevStack/lib
+END
+javax.ws.rs.jar.zip
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/javax.ws.rs.jar.zip
+END
+restlet-jse-2.3.0.zip
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0.zip
+END
+apache-log4j-2.1-bin.zip
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/apache-log4j-2.1-bin.zip
+END
+org.json-20120521.jar.zip
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/218863/lbs/bmeqa/restlet/DevStack/lib/org.json-20120521.jar.zip
+END
+json-lib-2.4-jdk15.zip
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/218816/lbs/bmeqa/restlet/DevStack/lib/json-lib-2.4-jdk15.zip
+END

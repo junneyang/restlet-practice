@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/handler
+END
+RateLimitationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/handler/RateLimitationHandler.java
+END
+BlockingHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/handler/BlockingHandler.java
+END
+ThresholdHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/handler/ThresholdHandler.java
+END

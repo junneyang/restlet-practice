@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/apispark/conversion/swagger/v1_2
+END
+Petstore.rwadef
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/apispark/conversion/swagger/v1_2/Petstore.rwadef
+END
+pet.json
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/apispark/conversion/swagger/v1_2/pet.json
+END
+store.json
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/apispark/conversion/swagger/v1_2/store.json
+END
+SwaggerTranslatorTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/apispark/conversion/swagger/v1_2/SwaggerTranslatorTestCase.java
+END
+user.json
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/apispark/conversion/swagger/v1_2/user.json
+END
+api-docs.json
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.test/org/restlet/test/ext/apispark/conversion/swagger/v1_2/api-docs.json
+END

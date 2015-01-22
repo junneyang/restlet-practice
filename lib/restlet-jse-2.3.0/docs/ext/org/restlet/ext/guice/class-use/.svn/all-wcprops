@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext/guice/class-use
+END
+FinderFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext/guice/class-use/FinderFactory.html
+END
+RestletGuice.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext/guice/class-use/RestletGuice.html
+END
+RestletGuice.Module.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext/guice/class-use/RestletGuice.Module.html
+END
+SelfInjectingServerResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext/guice/class-use/SelfInjectingServerResource.html
+END
+ResourceInjectingApplication.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext/guice/class-use/ResourceInjectingApplication.html
+END
+SelfInjectingServerResourceModule.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/ext/org/restlet/ext/guice/class-use/SelfInjectingServerResourceModule.html
+END
