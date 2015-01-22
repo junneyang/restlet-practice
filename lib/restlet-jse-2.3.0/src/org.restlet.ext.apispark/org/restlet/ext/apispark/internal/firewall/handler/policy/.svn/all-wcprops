@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/handler/policy
+END
+UniqueLimitPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/handler/policy/UniqueLimitPolicy.java
+END
+LimitPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/handler/policy/LimitPolicy.java
+END
+RoleLimitPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/handler/policy/RoleLimitPolicy.java
+END
+PerGroupLimitPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/handler/policy/PerGroupLimitPolicy.java
+END
+PerValueLimitPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/handler/policy/PerValueLimitPolicy.java
+END

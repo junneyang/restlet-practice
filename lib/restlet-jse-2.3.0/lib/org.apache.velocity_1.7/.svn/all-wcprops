@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.velocity_1.7
+END
+library.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.velocity_1.7/library.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.velocity_1.7/readme.txt
+END
+org.apache.velocity.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.velocity_1.7/org.apache.velocity.jar
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.velocity_1.7/license.txt
+END

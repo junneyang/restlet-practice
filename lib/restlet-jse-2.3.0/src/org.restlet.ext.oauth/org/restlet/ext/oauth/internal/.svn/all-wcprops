@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal
+END
+AuthSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal/AuthSession.java
+END
+RedirectionURI.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal/RedirectionURI.java
+END
+ServerToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal/ServerToken.java
+END
+ClientManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal/ClientManager.java
+END
+AuthSessionTimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal/AuthSessionTimeoutException.java
+END
+TokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal/TokenManager.java
+END
+Scopes.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal/Scopes.java
+END
+AbstractClientManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal/AbstractClientManager.java
+END
+ResourceOwnerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal/ResourceOwnerManager.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal/Client.java
+END
+AbstractTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal/AbstractTokenManager.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal/Token.java
+END
+CryptoUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.oauth/org/restlet/ext/oauth/internal/CryptoUtils.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch07/sec5/webapi/server
+END
+AccountServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch07/sec5/webapi/server/AccountServerResource.java
+END
+AccountsServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch07/sec5/webapi/server/AccountsServerResource.java
+END
+MailApiApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch07/sec5/webapi/server/MailApiApplication.java
+END
+MailServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch07/sec5/webapi/server/MailServerResource.java
+END
+RootServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.example/org/restlet/example/book/restlet/ch07/sec5/webapi/server/RootServerResource.java
+END

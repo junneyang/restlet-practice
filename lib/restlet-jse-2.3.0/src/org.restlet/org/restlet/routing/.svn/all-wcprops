@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing
+END
+Route.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/Route.java
+END
+Router.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/Router.java
+END
+Redirector.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/Redirector.java
+END
+VirtualHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/VirtualHost.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/Filter.java
+END
+Validator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/Validator.java
+END
+Variable.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/Variable.java
+END
+TemplateRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/TemplateRoute.java
+END
+Extractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/Extractor.java
+END
+Template.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/routing/Template.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.lucene_4.6
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.lucene_4.6/license.txt
+END
+library.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.lucene_4.6/library.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.lucene_4.6/readme.txt
+END
+org.apache.lucene.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/lib/org.apache.lucene_4.6/org.apache.lucene.jar
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/engine/org/restlet/engine/ssl
+END
+SslContextFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/engine/org/restlet/engine/ssl/SslContextFactory.html
+END
+SslUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/engine/org/restlet/engine/ssl/SslUtils.html
+END
+DefaultSslContextFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/engine/org/restlet/engine/ssl/DefaultSslContextFactory.html
+END
+WrapperSslContextSpi.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/engine/org/restlet/engine/ssl/WrapperSslContextSpi.html
+END
+WrapperSslSocketFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/engine/org/restlet/engine/ssl/WrapperSslSocketFactory.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/engine/org/restlet/engine/ssl/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/engine/org/restlet/engine/ssl/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/engine/org/restlet/engine/ssl/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/engine/org/restlet/engine/ssl/package-tree.html
+END
+WrapperSslServerSocketFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/engine/org/restlet/engine/ssl/WrapperSslServerSocketFactory.html
+END
+DefaultSslContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/docs/engine/org/restlet/engine/ssl/DefaultSslContext.html
+END

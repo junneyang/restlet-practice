@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util
+END
+ServiceList.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/ServiceList.java
+END
+CharacterReadingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/CharacterReadingListener.java
+END
+WrapperResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/WrapperResponse.java
+END
+Resolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/Resolver.java
+END
+ServerList.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/ServerList.java
+END
+ByteReadingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/ByteReadingListener.java
+END
+WrapperRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/WrapperRepresentation.java
+END
+StringReadingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/StringReadingListener.java
+END
+ClientList.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/ClientList.java
+END
+WrapperList.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/WrapperList.java
+END
+WrapperMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/WrapperMap.java
+END
+ReadingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/ReadingListener.java
+END
+SelectionRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/SelectionRegistration.java
+END
+NamedValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/NamedValue.java
+END
+WrapperRestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/WrapperRestlet.java
+END
+WrapperRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/WrapperRequest.java
+END
+Series.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/Series.java
+END
+RouteList.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/RouteList.java
+END
+SelectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet/org/restlet/util/SelectionListener.java
+END

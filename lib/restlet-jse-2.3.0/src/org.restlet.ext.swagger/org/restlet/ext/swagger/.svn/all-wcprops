@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.swagger/org/restlet/ext/swagger
+END
+JaxRsApplicationSwaggerSpecificationRestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.swagger/org/restlet/ext/swagger/JaxRsApplicationSwaggerSpecificationRestlet.java
+END
+JaxRsApplicationSwagger2SpecificationRestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.swagger/org/restlet/ext/swagger/JaxRsApplicationSwagger2SpecificationRestlet.java
+END
+SwaggerApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.swagger/org/restlet/ext/swagger/SwaggerApplication.java
+END
+SwaggerSpecificationRestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.swagger/org/restlet/ext/swagger/SwaggerSpecificationRestlet.java
+END
+Swagger2SpecificationRestlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.swagger/org/restlet/ext/swagger/Swagger2SpecificationRestlet.java
+END

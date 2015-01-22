@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal/ntriples
+END
+RdfNTriplesWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal/ntriples/RdfNTriplesWriter.java
+END
+RdfNTriplesReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.rdf/org/restlet/ext/rdf/internal/ntriples/RdfNTriplesReader.java
+END

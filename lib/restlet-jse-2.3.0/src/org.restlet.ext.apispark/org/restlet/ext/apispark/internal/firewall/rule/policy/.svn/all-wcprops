@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/rule/policy
+END
+IpAddressCountingPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/rule/policy/IpAddressCountingPolicy.java
+END
+UserCountingPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/rule/policy/UserCountingPolicy.java
+END
+CountingPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/rule/policy/CountingPolicy.java
+END
+HostDomainCountingPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.apispark/org/restlet/ext/apispark/internal/firewall/rule/policy/HostDomainCountingPolicy.java
+END

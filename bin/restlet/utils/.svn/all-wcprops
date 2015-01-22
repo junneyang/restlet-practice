@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/myspace/!svn/ver/219005/lbs/bmeqa/restlet/DevStack/bin/restlet/utils
+END
+ERRORCODE.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/myspace/!svn/ver/218982/lbs/bmeqa/restlet/DevStack/bin/restlet/utils/ERRORCODE.class
+END
+ErrorException.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/myspace/!svn/ver/218982/lbs/bmeqa/restlet/DevStack/bin/restlet/utils/ErrorException.class
+END
+LogHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/myspace/!svn/ver/219005/lbs/bmeqa/restlet/DevStack/bin/restlet/utils/LogHandler.class
+END

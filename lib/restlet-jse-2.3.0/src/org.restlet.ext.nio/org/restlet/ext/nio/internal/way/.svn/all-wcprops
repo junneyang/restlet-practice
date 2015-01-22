@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/org/restlet/ext/nio/internal/way
+END
+OutboundWay.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/org/restlet/ext/nio/internal/way/OutboundWay.java
+END
+HttpsServerInboundWay.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/org/restlet/ext/nio/internal/way/HttpsServerInboundWay.java
+END
+HttpsServerOutboundWay.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/org/restlet/ext/nio/internal/way/HttpsServerOutboundWay.java
+END
+Way.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/org/restlet/ext/nio/internal/way/Way.java
+END
+HttpsClientInboundWay.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/org/restlet/ext/nio/internal/way/HttpsClientInboundWay.java
+END
+HttpsClientOutboundWay.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/org/restlet/ext/nio/internal/way/HttpsClientOutboundWay.java
+END
+ServerInboundWay.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/org/restlet/ext/nio/internal/way/ServerInboundWay.java
+END
+HttpServerInboundWay.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/org/restlet/ext/nio/internal/way/HttpServerInboundWay.java
+END
+ServerOutboundWay.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/org/restlet/ext/nio/internal/way/ServerOutboundWay.java
+END
+HttpServerOutboundWay.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/org/restlet/ext/nio/internal/way/HttpServerOutboundWay.java
+END
+HttpClientInboundWay.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/org/restlet/ext/nio/internal/way/HttpClientInboundWay.java
+END
+EntityType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/org/restlet/ext/nio/internal/way/EntityType.java
+END
+ClientInboundWay.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/org/restlet/ext/nio/internal/way/ClientInboundWay.java
+END
+InboundWay.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/org/restlet/ext/nio/internal/way/InboundWay.java
+END
+HttpClientOutboundWay.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/org/restlet/ext/nio/internal/way/HttpClientOutboundWay.java
+END
+ClientOutboundWay.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/myspace/!svn/ver/218689/lbs/bmeqa/restlet/DevStack/lib/restlet-jse-2.3.0/src/org.restlet.ext.nio/org/restlet/ext/nio/internal/way/ClientOutboundWay.java
+END
